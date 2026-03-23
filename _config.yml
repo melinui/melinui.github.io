@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Melina Pal
 
 # Your name to show in the footer
-author: Some Person
+author: Melina Palampouiki
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # facebook: deanattali
+  github: melinui
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -94,9 +94,11 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  email: true
+  github: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 

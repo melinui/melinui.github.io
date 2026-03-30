@@ -4,7 +4,7 @@ title: Projects
 subtitle: My programming projects (completed and ongoing)
 ---
 
-## Completed
+## 🔸 Completed
 
 ---------------------------------------------
 ### Wordsh
@@ -24,7 +24,7 @@ Berkeley's Pancman Projects (see [1](https://inst.eecs.berkeley.edu/~cs188/fa25/
   
 ---------------------------------------------
 
-## Ongoing
+## 🔸 Ongoing
 
 ---------------------------------------------
 ### Multimodal Music Analysis

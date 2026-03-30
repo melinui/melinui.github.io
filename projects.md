@@ -15,8 +15,8 @@ A command-line Wordle game, written with bash scripts
 Berkeley's Pancman Projects (see [1](https://inst.eecs.berkeley.edu/~cs188/fa25/projects/proj1/) & [2](https://inst.eecs.berkeley.edu/~cs188/fa25/projects/proj2/))
 
 - See project repositories:
-    1) [here]() and
-    2) [here]()
+    1. [here]() and
+    2. [here]()
 ---------------------------------------------
 
 ## Ongoing

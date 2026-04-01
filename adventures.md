@@ -4,47 +4,38 @@ title: Adventures
 subtitle: Somes snippets of my travels and erasmus+ projects
 ---
 
-## Destination 1 - MM/YYYY
+
+## Mostar, Bosnia - 5/2024
 -------------------------------
 
-Overveiw...
+Trip with friends at the beutiful town of Mostar in Bosnia for the UWC graduation.
 
-- _Insert image_
+- Gallery:
 
-Details...
+![Mostar River](https://melinui.github.io/assets/img/bosnia_mostar_river.jpg)
+> Neretva River, one of the coldest rivers in the world
 
-## Destination 2 - MM/YYYY
--------------------------------
+![Mostar Bridge](https://melinui.github.io/assets/img/bosnia_mostar_bridge.jpg)
+> Stari Most Bridge, 16th-century Ottoman stone arch bridge (that's old)
 
-Overveiw...
+![Mostar Doner](https://melinui.github.io/assets/img/bosnia_doner.jpg)
+> Doner Kebab, exploring muslim cuisine... every day... 3 times a day...
 
-- _Insert image_
+![Mostar Abandoned House](https://melinui.github.io/assets/img/bosnia_abandoned_house.jpg)
+> "Saw this abandoned house while exploring the town. 
+> It looked really cool and eerie, reminded me of 'The Last of Us'"
 
-Details...
+![Mostar Train station 1](https://melinui.github.io/assets/img/mostar_train1.jpg)
+![Mostar Train station 2](https://melinui.github.io/assets/img/mostar_train2.jpg)
+![Mostar Train station 3](https://melinui.github.io/assets/img/mostar_train3.jpg)
+> "The postwar-looking train station was an experience on it's own."
+>
+> "The mood was set for one of the most beautiful train rides of my life, one of the best in Europe as well."
+>
+> "I tried so hard to stay awake because it was soo earlyy and we had barely slept.
+> The atmosphere was super foggy and I felt like going to Hogwarts going through the mountains.
+> Didn't take any pictures tho, I am slow in the morning..."
 
-## Destination 3 - MM/YYYY
--------------------------------
+![Balkan cafe](https://melinui.github.io/assets/img/bosnia_balkan_cafe.jpg)
+> Is't this the most balkan cafe you have ever seen? Love it!
 
-Overveiw...
-
-- _Insert image_
-
-Details...
-
-## Destination 4 - MM/YYYY
--------------------------------
-
-Overveiw...
-
-- _Insert image_
-
-Details...
-
-## Destination 5 - MM/YYYY
--------------------------------
-
-Overveiw...
-
-- _Insert image_
-
-Details...

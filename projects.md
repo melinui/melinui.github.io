@@ -4,6 +4,8 @@ title: Projects
 subtitle: My programming projects (completed and ongoing)
 ---
 
+---------------------------------------------
+
 ## 🔸 Completed
 
 ---------------------------------------------
@@ -30,13 +32,13 @@ Berkeley's Pancman Projects (see [1](https://inst.eecs.berkeley.edu/~cs188/fa25/
 ### Multimodal Music Analysis
 Multimodal analysis on a music data set using classification methods and plotting the results
 
-- _The rest under construction_
+- _The rest is under construction_
 
 ### Password Manager
 
 A local running password manager to cover everyday needs (fast, secure and simple)
 
-- _The rest under construction_
+- _The rest is under construction_
 
 ### Group Round-Robin (GRR) Scheduler
 
@@ -46,4 +48,4 @@ A custom scheduling policy of type Group Round-Robin, intergrated into the Linux
 
 > Currently running on unicore...
 
-- _The rest under construction_
+- _The rest is under construction_

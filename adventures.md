@@ -5,7 +5,7 @@ subtitle: Somes snippets of my travels and erasmus+ projects
 ---
 
 
-## Mostar, Bosnia - 5/2024
+## 🇧🇦 Mostar, Bosnia - 5/2024
 -------------------------------
 
 Trip with friends at the beutiful town of Mostar in Bosnia for the UWC graduation.
@@ -37,5 +37,5 @@ Trip with friends at the beutiful town of Mostar in Bosnia for the UWC graduatio
 > Didn't take any pictures tho, I am slow in the morning..."
 
 ![Balkan cafe](https://melinui.github.io/assets/img/bosnia_balkan_cafe.jpg)
-> Is't this the most balkan cafe you have ever seen? Love it!
+> Isn't this the most balkan cafe you have ever seen?
 

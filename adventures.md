@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Adventures
-subtitle: Somes snippets of my travels and erasmus+ projects
+subtitle: Some snippets of my travels and erasmus+ projects
 ---
 
 

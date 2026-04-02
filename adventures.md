@@ -4,6 +4,21 @@ title: Adventures
 subtitle: Some snippets of my travels and erasmus+ projects
 ---
 
+## 🇪🇸 Granen-Huesca-Barcelona, Spain - 7/2024
+-------------------------------
+
+Youth exchange "Disconnect and Self-Connect" in the rural Granen just 2 hours by train from Barcelona.
+
+- Gallery:
+
+![Artmosphera 1](https://melinui.github.io/assets/img/granen_artmosphera1.jpg)
+> Stayed at ARTmosfera, a housing space for artistists (mostly circus performers)
+
+![Artmosphera 2](https://melinui.github.io/assets/img/granen_artmosphera2.jpg)
+> "This place has some interesting design choices. That's a door btw"
+
+![Group Photo 1](https://melinui.github.io/assets/img/spain_group_circle.jpg)
+> Aerial photo of one of our activities from our room's balcony, so cool!
 
 ## 🇧🇦 Mostar, Bosnia - 5/2024
 -------------------------------

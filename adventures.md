@@ -4,6 +4,12 @@ title: Adventures
 subtitle: Some snippets of my travels and erasmus+ projects
 ---
 
+## 🇬🇷 Kallithea, Aitoloakarnania, Greece - 8/2024
+-------------------------------
+
+#### 🔸Gallery:
+
+
 ## 🇪🇸 Grañén-Huesca-Barcelona, Spain - 7/2024
 -------------------------------
 

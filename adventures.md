@@ -10,6 +10,16 @@ subtitle: Some snippets of my travels and erasmus+ projects
 #### 🔸Gallery:
 
 
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed/eQWOe6c6hn0&t=144s"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## 🇪🇸 Grañén-Huesca-Barcelona, Spain - 7/2024
 -------------------------------
 

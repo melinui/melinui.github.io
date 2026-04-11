@@ -12,7 +12,7 @@ subtitle: Some snippets of my travels and erasmus+ projects
 
 <div class="video-wrapper">
   <iframe
-    src="https://www.youtube.com/embed/eQWOe6c6hn0&t=144s"
+    src="https://youtu.be/eQWOe6c6hn0?si=OovJt5zy0QCwh6kq"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

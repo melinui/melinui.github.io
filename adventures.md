@@ -7,8 +7,30 @@ subtitle: Some snippets of my travels and erasmus+ projects
 ## 🇬🇷 Kallithea, Aitoloakarnania, Greece - 8/2024
 -------------------------------
 
+Youth participation "Feminine Odysseys" in Kallithea, created and showcased a play about the perceived role of women in society. Also presented a video with interviews of women from the local area, sharing their own personal stories and experiences.
+
 #### 🔸Gallery:
 
+![Camp](https://melinui.github.io/assets/img/fem_ody/camp01.jpg)
+> "The camp where we stayed in the mountains, so peaceful!"
+
+![Group meeting](https://melinui.github.io/assets/img/fem_ody/group_meeting.jpg)
+> Group meeting, discussing schedule and workshops.
+
+![Preparing Workshops](https://melinui.github.io/assets/img/fem_ody/workshop01.jpg)
+> Improvisation workshop, working on scenes for the final play.
+
+![Hike](https://melinui.github.io/assets/img/fem_ody/hiking01.jpg)
+> Hinking, enjoying nature and taking a break from all preparations before main event.
+
+![Play 1](https://melinui.github.io/assets/img/fem_ody/play01.jpg)
+![Play 2](https://melinui.github.io/assets/img/fem_ody/play02.jpg)
+> Play in the elementary school of Kallithea village.
+
+![Group photo](https://melinui.github.io/assets/img/fem_ody/group_photo01.jpg)
+> "Success! The post-project dinner in the local tavern. Managed to get a half-group photo hahaha"
+
+#### 🔸Interview Video:
 
 <div class="video-wrapper">
   <iframe 
@@ -22,6 +44,8 @@ subtitle: Some snippets of my travels and erasmus+ projects
     allowfullscreen>
   </iframe>
 </div>
+
+> Interview video presented at the event.
 
 ## 🇪🇸 Grañén-Huesca-Barcelona, Spain - 7/2024
 -------------------------------
